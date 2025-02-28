@@ -1,2 +1,2 @@
 # React Project Porfolio FortniteShop
-[Demo] (https://github.com/AndriiSaveliev/FortniteShop).
+[Demo] (https://andriisaveliev.github.io/FortniteShop/).
